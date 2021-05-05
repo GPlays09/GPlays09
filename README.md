@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GPlays09
-- 👀 I’m interested in programing and phzsics in general.
-- 🌱 I’m currently learning python and I am looking forward to C#
-- 💞️ I’m looking to collaborate on anzthing really
+- 👀 I’m interested in programing and physics in general.
+- 🌱 I’m currently learning python and I am looking forward to C# and C++
+- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me instagram: _6r36_
 
 <!---
